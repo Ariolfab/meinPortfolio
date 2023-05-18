@@ -75,7 +75,7 @@ body{
 
 #menu-icon{
     font-size: 3.6rem;
-    color: var(--text-color);
+    color: #ff0000;
     display: none;
 }
 
@@ -132,7 +132,7 @@ span{
     border: .2rem solid var(--main-color);
     border-radius: 50%;
     font-size: 2rem;
-    color:var(--main-color);
+    color:v#ff0000;
     margin: 3rem 1.5rem 3rem 0;
     transition: .5sec ease;
 }
